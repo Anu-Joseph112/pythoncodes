@@ -1,0 +1,5 @@
+Python is easy.
+Java is popular.
+C is a programming language.
+C++ supports OOP.
+Python is powerful.
